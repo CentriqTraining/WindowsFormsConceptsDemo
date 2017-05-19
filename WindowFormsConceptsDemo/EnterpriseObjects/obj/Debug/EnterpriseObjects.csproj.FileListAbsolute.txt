@@ -1,0 +1,10 @@
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\obj\Debug\EnterpriseObjects.csprojResolveAssemblyReference.cache
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\bin\Debug\EnterpriseObjects.dll.config
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\bin\Debug\EnterpriseObjects.dll
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\bin\Debug\EnterpriseObjects.pdb
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\bin\Debug\EntityFramework.dll
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\bin\Debug\EntityFramework.SqlServer.dll
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\bin\Debug\EntityFramework.xml
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\bin\Debug\EntityFramework.SqlServer.xml
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\obj\Debug\EnterpriseObjects.dll
+e:\documents\Visual Studio 2015\Projects\WindowFormsConceptsDemo\EnterpriseObjects\obj\Debug\EnterpriseObjects.pdb
